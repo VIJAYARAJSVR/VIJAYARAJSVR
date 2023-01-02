@@ -1,12 +1,8 @@
 
 
-
-![alt text](/Cover.png)
-
-
-
-<img src="/Cover.png" width=70% height=70%>
-
+<a href="www.linkedin.com/in/vijay-fullstack">
+    <img src="/Cover.png" width=100% height=100%>
+</a>
 
 ### Hello World 👋
 
@@ -17,5 +13,6 @@
 
 - 📫 Reach me:  +971561661585 (UAE) , Vijayfullstackdeveloper@gmail.com
 
-![stack Overflow](http://lmsotfy.com/so.png)
+
+
 
