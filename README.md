@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Data Science, Data visualisation.
 
-- 📫 How to reach me: +971561661585 (UAE) Phone Number
+- 📫 Reach me:  +971561661585 (UAE) , Vijayfullstackdeveloper@gmail.com
 
 
 
