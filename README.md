@@ -1,8 +1,11 @@
 
 
 
-![My Cover Image](cover.png)
+![alt text](/Cover.png)
 
+
+
+<img src="/Cover.png" width=70% height=70%>
 
 
 ### Hello World 👋
@@ -14,5 +17,5 @@
 
 - 📫 Reach me:  +971561661585 (UAE) , Vijayfullstackdeveloper@gmail.com
 
-
+![stack Overflow](http://lmsotfy.com/so.png)
 
