@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hello World 👋
 
-
-**VIJAYARAJSVR/VIJAYARAJSVR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Complex Web,Desktop,Mobile Project having skills such as Python, Django, Mac App, React.js. 
+
 - 🌱 I’m currently learning Data Science, Data visualisation.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 - 📫 How to reach me: +971561661585 (UAE) Phone Number
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 
