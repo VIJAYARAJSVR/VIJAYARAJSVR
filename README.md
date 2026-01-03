@@ -4,7 +4,7 @@
     <img src="/Cover.png" width=100% height=100%>
 </a> -->
 <a href="www.linkedin.com/in/vijay-software">
-    <img src="/linkedin_jan" width=100% height=100%>
+    <img src="/linkedin_jan.jpeg" width=100% height=100%>
 </a>
 ### Hello World 👋
 
