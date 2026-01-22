@@ -4,7 +4,7 @@
     <img src="/Cover.png" width=100% height=100%>
 </a> -->
 <a href="www.linkedin.com/in/vijay-software">
-    <img src="/linkedin_jan.jpeg" width=100% height=100%>
+    <img src="/Linkedin _Banner_Jan22_.jpeg" width=100% height=100%>
 </a>
 ### Hello World 👋
 
@@ -13,7 +13,7 @@
 
 - 🌱 Learning Advanced Data Science and Data visualisation.
 
-- 📫 Reach me:  +971561661585 (UAE), Vijayfullstackdeveloper@gmail.com
+- 📫 Reach me:  +971 561661585 (UAE), Vijayfullstackdeveloper@gmail.com
 
 
 
